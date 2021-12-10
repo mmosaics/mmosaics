@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 
 **Skills:**
 
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c++.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachecassandra.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
